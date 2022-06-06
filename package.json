@@ -7,6 +7,6 @@
   },
   "scripts": {
     "start:db": "json-server -w db.json",
-    "start:parcel": "percel index.html"
+    "start:parcel": "parcel index.html"
   }
 }
